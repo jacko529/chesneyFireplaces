@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=AddSupplierPanel
+comment1.params=
+comment1.target=AddSupplierPanel()
+comment2.params=
+comment2.target=void\ createPanels()
+comment3.params=
+comment3.target=void\ setUpForm()
+comment3.text=\r\n\ \ Method\ to\ set\ up\ the\ data-entry\ form\ itself\r\n
+comment4.params=event
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.text=\r\n\ Implement\ the\ actionPerformed()\ method\r\n\ in\ the\ ActionListener\ Interface\ Class\r\n\ \r\n\ @param\ event\ ...\ An\ ActionEvent\r\n
+comment5.params=
+comment5.target=void\ GetLastSupplierID()
+comment6.params=
+comment6.target=void\ writeSupplierRecord()
+comment6.text=\r\n\ \ Method\ to\ write\ a\ book\ record\r\n
+comment7.params=
+comment7.target=void\ finaliseScreen()
+comment8.params=
+comment8.target=void\ clearForm()
+comment8.text=\r\n\ Method\ to\ clear\ the\ text\ fields\ on\ the\ form\r\n
+comment9.params=
+comment9.target=AddSupplierPanel\ getInstance()
+numComments=10
